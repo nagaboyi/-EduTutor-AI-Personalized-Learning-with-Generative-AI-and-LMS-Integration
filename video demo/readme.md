@@ -51,7 +51,7 @@ Check out the setup instructions in the **Documentation** folder or raise an iss
 
 ---
 
-## ❤️ Made With Passion
+##  Made With Passion
 
 EduTutor AI was built as a part of a research-driven initiative to enhance digital learning.  
 We believe in making education smarter, more accessible, and deeply personalized.
@@ -62,6 +62,6 @@ Feel free to ⭐ star the repo if you found it interesting or helpful!
 ---
 
 ## 📞 Contact
-
-📧 [Email](nagaboyi2412@gmail.com)  
+If you have any questions or feedback,feel free to reach out:
+📧 [Email](mailto:nagaboyi2412@gmail.com) 
 💬 [Open an Issue](../../issues)
