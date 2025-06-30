@@ -217,8 +217,8 @@ We welcome contributors! Please fork this repo, create a new branch, and raise a
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:saireddy.annamareddy@gmail.com)
-- 🐛 Issues: [Open a GitHub Issue](https://github.com/SaiReddyA-1/EduTutor-AI__personalized-learning-with-generative-ai-and-lms-integration/issues)
+- 📧 [Email](mailto:nagaboyi2412@gmail.com)
+- 🐛 Issues: [Open a GitHub Issue](https://https://github.com/nagaboyi)
 
 ---
 
