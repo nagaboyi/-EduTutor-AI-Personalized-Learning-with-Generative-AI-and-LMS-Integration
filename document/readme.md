@@ -218,7 +218,7 @@ We welcome contributors! Please fork this repo, create a new branch, and raise a
 ## 📬 Contact
 
 - 📧 [Email](mailto:nagaboyi2412@gmail.com)
-- 🐛 Issues: [Open a GitHub Issue](https://https://github.com/nagaboyi)
+- 🐛 Issues: [Open a GitHub Issue](https://github.com/nagaboyi/-EduTutor-AI-Personalized-Learning-with-Generative-AI-and-LMS-Integration/issues)
 
 ---
 
